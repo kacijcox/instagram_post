@@ -42,3 +42,8 @@
       float: right;
     
     }
+
+
+    div .post-body {
+        padding-left: 10px;
+    }
