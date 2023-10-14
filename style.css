@@ -1,3 +1,4 @@
+
 .post {
     width: 600px;
     margin: auto;
@@ -7,6 +8,7 @@
     border-radius: 5px;
     }
     
+
     .fa-brands.fa-html5 {
       font-size: 30px;
       margin-right: 10px;
@@ -15,7 +17,16 @@
       padding-top: 10px;
       padding-bottom: 10px;
     }
-    
+
+    i.fas.fa-ellipsis-v {
+    float: right;
+    font-size: 30;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+
+
     div .aside {
         float: left;
         padding-top: 10px;
